@@ -57,3 +57,7 @@ Output: Dating tendencies and explanations.
 Validation of Input: If the user enters an incorrect value, a warning message is output and the user receives the input again.
 Various feedbacks: Provide detailed explanations and advice based on test results.
 Repeat Run: You can continue with another test unless the user chooses to exit.
+
+#### Please check the code
+
+#### Thank you :)
